@@ -1,2 +1,2 @@
 Git is cool.
-I will be cool.
+I will be a cool guy.
